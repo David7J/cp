@@ -1,0 +1,36 @@
+C:\Users\SISTEMAS2-35\Desktop\Ejemplos\Ejemplos\bin\Debug\net6.0-windows\Ejemplos.exe
+C:\Users\SISTEMAS2-35\Desktop\Ejemplos\Ejemplos\bin\Debug\net6.0-windows\Ejemplos.deps.json
+C:\Users\SISTEMAS2-35\Desktop\Ejemplos\Ejemplos\bin\Debug\net6.0-windows\Ejemplos.runtimeconfig.json
+C:\Users\SISTEMAS2-35\Desktop\Ejemplos\Ejemplos\bin\Debug\net6.0-windows\Ejemplos.dll
+C:\Users\SISTEMAS2-35\Desktop\Ejemplos\Ejemplos\bin\Debug\net6.0-windows\Ejemplos.pdb
+C:\Users\SISTEMAS2-35\Desktop\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\Ejemplos.csproj.AssemblyReference.cache
+C:\Users\SISTEMAS2-35\Desktop\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\Ejemplos.Form1.resources
+C:\Users\SISTEMAS2-35\Desktop\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\Ejemplos.Properties.Resources.resources
+C:\Users\SISTEMAS2-35\Desktop\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\Ejemplos.csproj.GenerateResource.cache
+C:\Users\SISTEMAS2-35\Desktop\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\Ejemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SISTEMAS2-35\Desktop\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\Ejemplos.AssemblyInfoInputs.cache
+C:\Users\SISTEMAS2-35\Desktop\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\Ejemplos.AssemblyInfo.cs
+C:\Users\SISTEMAS2-35\Desktop\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\Ejemplos.csproj.CoreCompileInputs.cache
+C:\Users\SISTEMAS2-35\Desktop\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\Ejemplos.dll
+C:\Users\SISTEMAS2-35\Desktop\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\refint\Ejemplos.dll
+C:\Users\SISTEMAS2-35\Desktop\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\Ejemplos.pdb
+C:\Users\SISTEMAS2-35\Desktop\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\Ejemplos.genruntimeconfig.cache
+C:\Users\SISTEMAS2-35\Desktop\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\ref\Ejemplos.dll
+E:\VERANO PROGRAMACION\Ejemplos\Ejemplos\bin\Debug\net6.0-windows\Ejemplos.exe
+E:\VERANO PROGRAMACION\Ejemplos\Ejemplos\bin\Debug\net6.0-windows\Ejemplos.deps.json
+E:\VERANO PROGRAMACION\Ejemplos\Ejemplos\bin\Debug\net6.0-windows\Ejemplos.runtimeconfig.json
+E:\VERANO PROGRAMACION\Ejemplos\Ejemplos\bin\Debug\net6.0-windows\Ejemplos.dll
+E:\VERANO PROGRAMACION\Ejemplos\Ejemplos\bin\Debug\net6.0-windows\Ejemplos.pdb
+E:\VERANO PROGRAMACION\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\Ejemplos.csproj.AssemblyReference.cache
+E:\VERANO PROGRAMACION\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\Ejemplos.Form1.resources
+E:\VERANO PROGRAMACION\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\Ejemplos.Properties.Resources.resources
+E:\VERANO PROGRAMACION\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\Ejemplos.csproj.GenerateResource.cache
+E:\VERANO PROGRAMACION\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\Ejemplos.GeneratedMSBuildEditorConfig.editorconfig
+E:\VERANO PROGRAMACION\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\Ejemplos.AssemblyInfoInputs.cache
+E:\VERANO PROGRAMACION\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\Ejemplos.AssemblyInfo.cs
+E:\VERANO PROGRAMACION\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\Ejemplos.csproj.CoreCompileInputs.cache
+E:\VERANO PROGRAMACION\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\Ejemplos.dll
+E:\VERANO PROGRAMACION\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\refint\Ejemplos.dll
+E:\VERANO PROGRAMACION\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\Ejemplos.pdb
+E:\VERANO PROGRAMACION\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\Ejemplos.genruntimeconfig.cache
+E:\VERANO PROGRAMACION\Ejemplos\Ejemplos\obj\Debug\net6.0-windows\ref\Ejemplos.dll
